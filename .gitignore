@@ -1,0 +1,7 @@
+*.zip
+tests/dom*.html
+tests/*.log
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
